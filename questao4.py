@@ -1,6 +1,7 @@
 import os
 os.system('cls')
 
+print(" loja de frutas")
 kg_mo = float(input("Kg de morangos: "))
 kg_ma = float(input("Kg de maçãs: "))
 
@@ -17,3 +18,4 @@ if peso_total >= 10 or valor_total > 15.00:
 
 print(f"Valor final a pagar: R$ {valor_total:.2f}")
 
+print("fim")
