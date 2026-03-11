@@ -27,4 +27,7 @@ print(f"Você escolheu {quantidade} unidades.")
 print(f"Desconto : {percentual*100}%")
 print(f"Total a pagar: R$ {total_a_pagar:.2f}")
 
+print("fim")
+
     
+
