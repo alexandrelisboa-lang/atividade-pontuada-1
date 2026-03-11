@@ -3,7 +3,7 @@ os.system("cls")
 
 # ENTRADA
 
-print("---------OPERAÇÃO-----")
+print("OPERAÇÃO")
 
 n1=int(input("digige um numero: "))
 n2=int(input("digige outro numero: "))
@@ -23,4 +23,5 @@ elif sinal == "*":
 elif sinal == "/":
     print(f"o resultado com o sinal {sinal} foi {divisão}")
     
-print("=======FIM======")
+
+print("FIM")
