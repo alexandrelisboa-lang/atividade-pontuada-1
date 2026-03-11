@@ -5,8 +5,8 @@ os.system("cls")
 
 print("OPERAÇÃO")
 
-n1=int(input("digige um numero: "))
-n2=int(input("digige outro numero: "))
+n1=int(input("digite um numero: "))
+n2=int(input("digite outro numero: "))
 sinal=input("digite a operação desejada (+,-,* ou /): ")
 
 soma=n1+n2
@@ -25,3 +25,4 @@ elif sinal == "/":
     
 
 print("FIM")
+
