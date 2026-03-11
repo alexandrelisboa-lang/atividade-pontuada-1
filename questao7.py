@@ -9,7 +9,7 @@ nome = input("Digite o nome do produto: ")
 quantidade = int(input("digite a quantidade desejada : "))
 preco = float(input("digite o Preço do profuto: "))
 
-total_bruto = quantidade * preço
+total_bruto = quantidade * preco
 
 if quantidade <= 5:
     percentual = 2 / 100
@@ -30,4 +30,5 @@ print(f"Total a pagar: R$ {total_a_pagar:.2f}")
 print("fim")
 
     
+
 
